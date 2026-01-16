@@ -23,5 +23,3 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 
-# 📊 Github Stats
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityakhandlwl&show_icons=true&theme=radical)
